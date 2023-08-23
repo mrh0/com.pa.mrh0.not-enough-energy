@@ -1,0 +1,7 @@
+{
+    "unit_map": {
+        "mrh0_expansion_tank_shield_gen": {
+            "spec_id": "/pa/units/land/tank_shield_gen/tank_shield_gen.json"
+        }
+    }
+}

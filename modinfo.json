@@ -1,0 +1,30 @@
+{
+	"identifier": "com.pa.mrh0.not-enough-energy",
+	"display_name": "Not Enough Energy",
+	"description": "Rebalances Energy Plants by introducing two additional Energy Plants, the Improved Energy Plant which can be built with basic fabbers, and the Titan Energy Catalyst which produces a huge amount of energy but explodes when destroyed.",
+	"author": "MRH0",
+	"signature": "not yet implemented",
+	"forum": "",
+	"priority": 50,
+	"icon": "",
+	"titansOnly": true,
+	"category": [
+		"addon",
+		"unit",
+		"economy",
+		"energy",
+		"titans"
+	],
+	"scenes": {
+		"shared_build": [
+			"coui://ui/mods/com.pa.mrh0.not-enough-energy/shared_build.js"
+		],
+		"icon_atlas": [
+			"coui://ui/mods/com.pa.mrh0.not-enough-energy/icon_atlas.js"
+		]
+	},
+	"context": "server",
+	"date": "2023-08-23",
+	"build": "1",
+	"version": "1.0.0"
+}
