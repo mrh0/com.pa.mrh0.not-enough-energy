@@ -139,7 +139,7 @@
 ],
   "model": {
     "filename": "/pa/units/land/titan_energy_plant/titan_energy_plant.papa",
-    "skirt_decal": "/pa/effects/specs/skirt_titan_structure.json"
+    "skirt_decal": "/pa/units/land/titan_energy_plant/skirt_titan_energy_plant.json"
   },
   "physics": {
     "collision_layers": "WL_AnyHorizontalGroundOrWaterSurface"
@@ -166,7 +166,7 @@
     }
   },
   "selection_icon": {
-    "diameter": 98.0
+    "diameter": 86.0
   },
   "spawn_layers": "WL_AnyHorizontalGround",
   "unit_types": [
