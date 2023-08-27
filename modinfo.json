@@ -7,6 +7,7 @@
 	"forum": "https://forums.planetaryannihilation.com/threads/rel-not-enough-energy.73600/",
 	"priority": 50,
 	"icon": "https://github.com/mrh0/com.pa.mrh0.not-enough-energy/blob/main/icon.png?raw=true",
+	"github": "https://github.com/mrh0/com.pa.mrh0.not-enough-energy",
 	"titansOnly": true,
 	"category": [
 		"addon",
