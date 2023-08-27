@@ -6,7 +6,7 @@
 	"signature": "not yet implemented",
 	"forum": "",
 	"priority": 50,
-	"icon": "",
+	"icon": "https://github.com/mrh0/com.pa.mrh0.not-enough-energy/blob/main/icon.png?raw=true",
 	"titansOnly": true,
 	"category": [
 		"addon",
@@ -25,6 +25,6 @@
 	},
 	"context": "server",
 	"date": "2023-08-23",
-	"build": "1",
+	"build": "116982",
 	"version": "1.0.0"
 }
