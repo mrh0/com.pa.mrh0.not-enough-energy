@@ -4,7 +4,7 @@
 	"description": "Rebalances Energy Plants by introducing two additional Energy Plants, the Improved Energy Plant which can be built with basic fabbers, and the Titan Energy Catalyst which produces a huge amount of energy but explodes when destroyed.",
 	"author": "MRH0",
 	"signature": "not yet implemented",
-	"forum": "",
+	"forum": "https://forums.planetaryannihilation.com/threads/rel-not-enough-energy.73600/",
 	"priority": 50,
 	"icon": "https://github.com/mrh0/com.pa.mrh0.not-enough-energy/blob/main/icon.png?raw=true",
 	"titansOnly": true,
@@ -24,7 +24,7 @@
 		]
 	},
 	"context": "server",
-	"date": "2023-08-23",
+	"date": "2023-08-27",
 	"build": "116982",
 	"version": "1.0.0"
 }
