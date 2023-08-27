@@ -16,5 +16,5 @@ Rebalances Energy Plants by introducing two additional Energy Plants, the Improv
 https://github.com/mrh0/com.pa.mrh0.not-enough-energy/blob/main/LICENSE.md
  
 ## Credits
-This mod contains work derived from the LEGION mod.
+This mod contains work derived from Planetery Annihilation: Titans and the LEGION mod.
 https://github.com/mrh0/com.pa.mrh0.not-enough-energy/blob/main/CREDITS.ZV
