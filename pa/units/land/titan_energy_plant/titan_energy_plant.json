@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/mrh0/pa-spec-generator/main/specs/unit_spec.json",
-  "display_name": "!LOC:Titan Power Catalyst",
-  "description": "!LOC:Titan Economy - Fabricates black holes and harnesses their energy. Explodes on death, damaging friend and foe.",
+  "display_name": "!LOC:Titan Energy Catalyst",
+  "description": "!LOC:Titan Economy - Fabricates miniature stars and harnesses their energy. Explodes on death, damaging both enemies and allies.",
   "TEMP_texelinfo": 32.6108,
   "area_build_separation": 2,
   "area_build_type": "Line",
@@ -13,7 +13,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 25600,
+  "build_metal_cost": 25000,
   "death_weapon": {
     "ground_ammo_spec": "/pa/units/land/titan_energy_plant/death_weapon.json"
   },

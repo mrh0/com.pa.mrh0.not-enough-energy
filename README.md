@@ -7,10 +7,10 @@ Rebalances Energy Plants by introducing two additional Energy Plants, the Improv
 ## Energy Plant Balance
 
 ||Basic|Improved|Adv|Titan|Factor|
-|-|-|-|-|-|-|
-|Health |1000 |3000 |9000  |28000 |x3 |
-|Energy |600  |3000 |15000 |75000 |x5 |
-|Cost   |400  |1600 |6400  |25600 |x4 |
+|-------|-----|-----|------|------|----|
+|Health |1000 |3000 |9000  |28000 | 3x |
+|Energy |600  |3000 |15000 |75000 | 5x |
+|Cost   |400  |1600 |6400  |24000 |~4x |
 
 ## License
 https://github.com/mrh0/com.pa.mrh0.not-enough-energy/blob/main/LICENSE.md
