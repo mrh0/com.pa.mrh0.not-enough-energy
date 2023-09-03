@@ -166,13 +166,13 @@
     }
   },
   "selection_icon": {
-    "diameter": 86.0
+    "diameter": 80.0
   },
   "spawn_layers": "WL_AnyHorizontalGround",
   "unit_types": [
     "UNITTYPE_Structure",
     "UNITTYPE_EnergyProduction",
-    "UNITTYPEanced",
+    "UNITTYPE_Advanced",
     "UNITTYPE_FabAdvBuild",
     "UNITTYPE_Economy",
     "UNITTYPE_Custom58"

@@ -1,6 +1,7 @@
 {
     "units": [
         "/pa/units/land/titan_energy_plant/titan_energy_plant.json",
+		"/pa/units/land/l_titan_energy_plant/l_titan_energy_plant.json",
         "/pa/units/land/energy_plant_improved/energy_plant_improved.json"
     ]
 }
